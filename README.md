@@ -7,7 +7,7 @@ This project was submitted as part of the requirements for Brainstation's Data S
 
 The focus of this project was to analyze the factors that determines whether a given tweet get retweeted and to package these findings into actionable insights for Klima DAO to improve it's brand visisbility. All the documents pertaining to this project can also be found through the following [Google Drive Folder](https://drive.google.com/drive/folders/1pPon5a_gsxZgyzgmWyZjTTda-7AwCYI9?usp=sharing).
 
-For a generalized overview of the project, please read the document titled [*Klima-DAO-Twitter-Analytics-Report-RR.pdf*](https://drive.google.com/file/d/1LudxqbuwFzHPx2XlwbG-BnPgVXVNbR0f/view?usp=sharing).
+For a generalized overview of the project, please read the document titled [*Klima-DAO-Twitter-Analytics-Report-RR.pdf*](https://drive.google.com/file/d/1LudxqbuwFzHPx2XlwbG-BnPgVXVNbR0f/view?usp=sharing). There's also presentation slides associated to this project which can be found [here](https://docs.google.com/presentation/d/1PZNnaCm6uH2D6zKfUT-NanL2c_axFUvUoomyhD2dN14/edit?usp=sharing)
 
 The data for this project was scraped from the Twitter API and concatenated into a master dataset. Its accessible through the data folder in this repository or through this [link](https://drive.google.com/file/d/1doYWX4jPFvg6PR3zHYO0DVwwVaU0CmyW/view?usp=sharing).
 
